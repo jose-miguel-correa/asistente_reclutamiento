@@ -1,0 +1,9 @@
+BANCO SANTANDER
+Java
+.NET
+Flutter
+PHP
+
+BANCO ESTADO
+Python
+AWS
